@@ -1,6 +1,6 @@
 # Decentralized Exchange Arbitrage Bot
 
-A high-performance MEV arbitrage bot built using Rust and Solidity. This project provides insight into the fundamentals of decentralized exchange (DEX) arbitrage and serves as a foundation for those interested in exploring MEV strategies in blockchain environments.
+A high-performance MEV arbitrage bot built using Rust and Solidity. This project provides insight into the fundamentals of DEX arbitrage and serves as a foundation for those interested in exploring MEV strategies in blockchain environments.
 
 ---
 
